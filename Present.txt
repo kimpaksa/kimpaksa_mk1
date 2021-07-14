@@ -22,3 +22,5 @@
   - Style (글자사이즈, 글자색)
   - createElement
   - node 관련 
+
+지금부터 브런치 작업을 시작할예정.
